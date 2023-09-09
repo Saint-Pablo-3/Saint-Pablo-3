@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Pavel. I'm an iOS developer.
+My name is Pavel. I'm an iOS developer.<br>
 I’m currently learning SwiftUI and other frameworks in Swift.
 <!--
 **Saint-Pablo-3/Saint-Pablo-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
