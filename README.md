@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-My name is Pavel. I'm a DevOps engineer.<br>
-I’m currently learning Linux systems, PHP, JS and other languages.
+My name is Pavel. I'm a brginner DevOps engineer.<br>
+I’m currently learning Linux systems, PHP, JS and many other.
 <!--
 **Saint-Pablo-3/Saint-Pablo-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
